@@ -8,6 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Sat, 04 Dec 2021 15:10:15 -0800</lastBuildDate><atom:link href="https://wcastello.notsure.dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Repl</title>
+      <link>https://wcastello.notsure.dev/repl/</link>
+      <pubDate>Sat, 04 Dec 2021 18:21:39 -0800</pubDate>
+      
+      <guid>https://wcastello.notsure.dev/repl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A Post</title>
       <link>https://wcastello.notsure.dev/posts/2021-12-04-a-post/</link>
       <pubDate>Sat, 04 Dec 2021 15:10:15 -0800</pubDate>
