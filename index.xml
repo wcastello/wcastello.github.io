@@ -1,28 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>wcastello.notsure.dev</title>
+    <title>Notsure!dev</title>
     <link>https://wcastello.notsure.dev/</link>
-    <description>Recent content on wcastello.notsure.dev</description>
+    <description>Recent content on Notsure!dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Dec 2021 15:10:15 -0800</lastBuildDate><atom:link href="https://wcastello.notsure.dev/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>me</copyright>
+    <lastBuildDate>Wed, 30 Mar 2022 18:00:00 +0000</lastBuildDate><atom:link href="https://wcastello.notsure.dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Repl</title>
-      <link>https://wcastello.notsure.dev/repl/</link>
-      <pubDate>Sat, 04 Dec 2021 18:21:39 -0800</pubDate>
+      <title>A starter blog</title>
+      <link>https://wcastello.notsure.dev/posts/2020-06-06-changes-in-java-string/</link>
+      <pubDate>Wed, 30 Mar 2022 18:00:00 +0000</pubDate>
       
-      <guid>https://wcastello.notsure.dev/repl/</guid>
-      <description></description>
+      <guid>https://wcastello.notsure.dev/posts/2020-06-06-changes-in-java-string/</guid>
+      <description>I have been reading a lot more after I left my previous job at NortonLifeLock as an SRE. It is nice to catch up with all the technology and tools that I was not using before. The day has only so many hours and at some point I was just burned out and too tired to keep going. Moreover, I still felt like after all these years I have not been sharing much of my thoughts and experiences with anyone other than close friends and family.</description>
     </item>
     
     <item>
-      <title>A Post</title>
-      <link>https://wcastello.notsure.dev/posts/2021-12-04-a-post/</link>
-      <pubDate>Sat, 04 Dec 2021 15:10:15 -0800</pubDate>
+      <title>About me</title>
+      <link>https://wcastello.notsure.dev/about/</link>
+      <pubDate>Wed, 30 Mar 2022 17:38:00 +0000</pubDate>
       
-      <guid>https://wcastello.notsure.dev/posts/2021-12-04-a-post/</guid>
-      <description></description>
+      <guid>https://wcastello.notsure.dev/about/</guid>
+      <description>Github: wcastello</description>
     </item>
     
   </channel>

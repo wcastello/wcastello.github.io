@@ -1,18 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on wcastello.notsure.dev</title>
+    <title>Categories on Notsure!dev</title>
     <link>https://wcastello.notsure.dev/categories/</link>
-    <description>Recent content in Categories on wcastello.notsure.dev</description>
+    <description>Recent content in Categories on Notsure!dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Dec 2021 15:10:15 -0800</lastBuildDate><atom:link href="https://wcastello.notsure.dev/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>me</copyright>
+    <lastBuildDate>Wed, 30 Mar 2022 18:00:00 +0000</lastBuildDate><atom:link href="https://wcastello.notsure.dev/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>default</title>
-      <link>https://wcastello.notsure.dev/categories/default/</link>
-      <pubDate>Sat, 04 Dec 2021 15:10:15 -0800</pubDate>
+      <title>notes</title>
+      <link>https://wcastello.notsure.dev/categories/notes/</link>
+      <pubDate>Wed, 30 Mar 2022 18:00:00 +0000</pubDate>
       
-      <guid>https://wcastello.notsure.dev/categories/default/</guid>
+      <guid>https://wcastello.notsure.dev/categories/notes/</guid>
       <description></description>
     </item>
     
